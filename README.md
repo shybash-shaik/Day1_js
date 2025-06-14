@@ -1,6 +1,6 @@
 #Day1_js Assignment 
 
-#1. Basics
+##1. Basics
  1.Basics-easy.js
  ![Screenshot 2025-06-14 122401](https://github.com/user-attachments/assets/2d359b1f-e2b6-4c81-a7d5-42bbf585c79f)
 
@@ -8,9 +8,11 @@
   ![Screenshot 2025-06-14 123203](https://github.com/user-attachments/assets/bafb1145-a399-45b1-87a6-7bbcc2a35adc)
 
   3.Basics-medium.js
+
+  
   ![Screenshot 2025-06-14 123353](https://github.com/user-attachments/assets/f92e6cae-4500-41c6-8df2-f3e7cc0adaea)
 
-#2 Arrays
+##2 Arrays
   1.arrays-easy.js
   ![Screenshot 2025-06-14 123533](https://github.com/user-attachments/assets/97af89df-7788-4388-9fda-a15ab4beb290)
 
@@ -23,7 +25,7 @@
   4.arrays.hard.js
   ![Screenshot 2025-06-14 123858](https://github.com/user-attachments/assets/01be3ca0-b574-425e-b49c-9081d7fefd29)
 
-#3.Objects & functions
+##3.Objects & functions
 
   1.objects-easy.js
   ![Screenshot 2025-06-14 124016](https://github.com/user-attachments/assets/ce723639-ac7e-4b74-b238-7d2ee83233ce)
@@ -34,7 +36,7 @@
   3.objects-medium2.js
   ![Screenshot 2025-06-14 124227](https://github.com/user-attachments/assets/33adfb34-2c47-4754-b3bc-379efa63ba31)
 
-#4.Advanced
+##4.Advanced
 
  1.advanced-hard.js
  ![Screenshot 2025-06-14 124507](https://github.com/user-attachments/assets/4525b826-98de-47f0-97b4-f9b7f5e74079)
